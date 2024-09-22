@@ -3,3 +3,7 @@ _site
 .jekyll-cache
 .jekyll-metadata
 vendor
+
+
+shai_site/public/
+shai_site/resources/_gen/
